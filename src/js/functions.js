@@ -1,0 +1,3 @@
+function getUsername() {
+  var name = "";
+}
